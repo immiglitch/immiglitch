@@ -17,8 +17,8 @@ En parallèle de l'informatique, je suis aussi **photographe sportive** et j'aim
 
 - GitLab / GitHub
 - macOS & Linux
-- VS Code
 - Terminal / Shell
+- VS Code
 
 ## Langages de programmation
 
@@ -29,19 +29,18 @@ En parallèle de l'informatique, je suis aussi **photographe sportive** et j'aim
 
 Quelques projets que j'ai réalisés :
 
-- Projet Machine Learning — Prédiction de l’anémie
+- Projet Machine Learning - Prédiction de l’anémie
 - Gestion d’une cagnotte sécurisée (en groupe)
-- Analyse de graphes — Composantes connexes
+- Analyse de graphes - Composantes connexes
 
 ## Ce que j'apprends en ce moment
 
-- la Data & l'Intelligence artificielle
-- le traitement automatique des langues
-- développer pour des logiciels libres
+- La Data & l'Intelligence artificielle
+- Le traitement automatique des langues
+- Développer pour des logiciels libres
 
 ## Me contacter
 
-- GitHub : https://github.com/immiglitch
 - LinkedIn : https://www.linkedin.com/in/mariame-bathily-3aa6b2198/
 
 ⭐ *Merci d'être passé sur mon profil !*
