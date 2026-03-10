@@ -3,15 +3,12 @@
 🎓 Étudiante en informatique  
 💻 Intéressée par la **Data & l'IA, le Cloud et la Cybersécurité**  
 
----
-
 ## À propos de moi
 
 Ce qui m’intéresse, c’est de comprendre comment les choses fonctionnent et de créer des outils concrets.
 
 En parallèle de l'informatique, je suis aussi **photographe sportive** et j'aime également documenter des moments de vie et travailler sur des projets qui correspondent à mes valeurs.
 
----
 
 ## Technologies & outils
 
