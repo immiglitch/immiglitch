@@ -1,7 +1,7 @@
 # Coucou, moi c'est Mariame aka Immiglitch
 
 🎓 Étudiante en informatique  
-💻 Intéressée par la **Data & l'IA, le Cloud, le Réseaux et Développement logiciel**  
+💻 Intéressée par la **Data & l'IA
 
 ## À propos de moi
 
